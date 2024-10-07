@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Alexander Berhe!
+# 👋 Hi, I'm Alexander!
 
 I'm a **DevOps Engineer** passionate about automating infrastructure, building scalable cloud environments, and delivering software faster. With over 3 years of experience, I specialize in cloud solutions, CI/CD pipelines, and container orchestration.
 
@@ -39,8 +39,8 @@ I'm a **DevOps Engineer** passionate about automating infrastructure, building s
 
 ## 💼 Work Experience
 
-- **DevOps Engineer @ [Company Name]**
-  - **Dates**: 2021 - Present
+- **IT Administration, Data Center Technician, and Currently DevOps Engineer**
+  - **Dates**: 2015 - Present
   - **Responsibilities**: Managing cloud infrastructure, building scalable CI/CD pipelines, container orchestration using Kubernetes.
 
     ## 📊 GitHub Stats
