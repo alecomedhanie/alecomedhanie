@@ -53,5 +53,5 @@ I'm a **DevOps Engineer** passionate about automating infrastructure, building s
 
 ## 📫 How to reach me
 
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/alexanderberhe)
+- LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/alexander-berhe-b5749415b/)
 - Email: alecomedhanie@gmail.com
