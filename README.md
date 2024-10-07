@@ -40,7 +40,7 @@ I'm a **DevOps Engineer** passionate about automating infrastructure, building s
 
 ## 💼 Work Experience
 
-- **IT Administration, Data Center Technician, and Currently DevOps Engineer**
+- **IT Administration, Data Center Technician, and Currently DevOps Engineer || Site Reliability Engineer || Cloud Infrastructure Engineer**
   - **Dates**: 2015 - Present
   - **Responsibilities**: Managing cloud infrastructure, building scalable CI/CD pipelines, container orchestration using Kubernetes, and More.
 
