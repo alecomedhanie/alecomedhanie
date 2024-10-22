@@ -25,12 +25,12 @@ I'm a **DevOps Engineer** passionate about automating infrastructure, building s
 ### 1. **Automated CI/CD Pipeline**
    - **Description**: Built a fully automated CI/CD pipeline using **Jenkins** and **GitHub Actions**, reducing deployment time by 25%.
    - **Tools**: Jenkins, GitHub Actions, Terraform, Docker
-   - [🔗 Project Repository](https://github.com/yourusername/cicd-pipeline)
+   - [🔗 Project Repository](https://github.com/alecomedhanie/cicd-pipeline)
 
 ### 2. **Cloud Infrastructure Automation**
    - **Description**: Automated the provisioning of AWS infrastructure using **Terraform**, deploying EC2 instances, RDS, and load balancers, improving infrastructure provisioning efficiency by 50%.
    - **Tools**: AWS, Terraform, Ansible
-   - [🔗 Project Repository](https://github.com/yourusername/cloud-infrastructure)
+   - [🔗 Project Repository](https://github.com/alecomedhanie/cloud-infrastructure)
 
      ## 🏅 Education and Certifications
 - Bachelor in Computer Science
@@ -50,7 +50,7 @@ I'm a **DevOps Engineer** passionate about automating infrastructure, building s
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alecomedhanie&layout=compact&theme=radical)
 
 ## 📫 How to reach me
 
