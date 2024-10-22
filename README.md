@@ -46,7 +46,7 @@ I'm a **DevOps Engineer** passionate about automating infrastructure, building s
 
     ## 📊 GitHub Stats
 
-![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecomedhanie&show_icons=true&theme=radical)
 
 ## 🔥 Top Languages
 
